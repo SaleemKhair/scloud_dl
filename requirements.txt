@@ -1,0 +1,11 @@
+requests
+aiohttp
+aiofiles
+aiocsv
+aiohttp_retry
+wheel
+ffmpeg-python
+selenium
+webdriver-manager
+undetected-chromedriver
+
