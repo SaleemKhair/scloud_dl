@@ -1,6 +1,7 @@
-.venv/
+.venv
 .vscode
 downloads/*
+build
 logs/*
 cache/*
 *.code-workspace
